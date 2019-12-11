@@ -6,4 +6,4 @@ Run:
 pyhton example.py
 ```
 # multiplot.py
-Multiple graphs on the same canvas
+Multiple graphs on the same canvas. Points extracted from a two column text file.
